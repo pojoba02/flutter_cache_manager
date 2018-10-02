@@ -5,7 +5,7 @@ author: Rene Floor <pub@renefloor.nl>
 homepage: https://github.com/renefloor/flutter_cache_manager
 
 environment:
-  sdk: ">=2.1.0-dev.6.0.flutter-8a919426f0 <3.0.0"
+  sdk: ">=2.1.0-dev.6.0 <3.0.0"
 
 dependencies:
   flutter:
